@@ -45,6 +45,6 @@ Contributions, bug reports, and feedback are welcome! If you encounter any issue
 ### Credits:
 
 - Built with Python, Tkinter, and Tesseract OCR.
-- Developed by **rscreamroad** - insert your information here.
+- Developed by **rscreamroad**.
 
 For any inquiries or support, feel free to contact rscreamroad@gmail.com.
