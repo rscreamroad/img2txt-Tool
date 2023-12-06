@@ -1,4 +1,4 @@
-# txt2img Tool
+# img2txt Tool
  A simple GUI application using Tkinter to extract text from images using Tesseract OCR and then export the extracted text to a CSV file. 
 
 The "img2txt Tool" is a Python-based graphical application designed to convert images to text using Optical Character Recognition (OCR) technology. This tool utilizes the Tesseract OCR engine to extract text from various image files and provides an easy-to-use interface for users to convert multiple images to text and export the extracted text into a CSV file.
